@@ -1,3 +1,5 @@
+Demo : https://www.loom.com/share/ad31f3547e3747d7b72a67f70f4bfd0b
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
